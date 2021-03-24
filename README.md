@@ -28,7 +28,7 @@
 </li>
 </ol>
 
-<h2><a id="user-content-project-motivation">Project Motivation</a></h2>
+<h2><a id="user-content-motivation">Project Motivation</a></h2>
 <p>I was interested in using Stackoverflow Developer Survey Data to better understand some of the below questions:<br></p>
 <ol>
 <li>What are the most used programming languages in Brazil? <br></li>
@@ -36,7 +36,7 @@
 <li>How does programming languages used at work relates with programming languages people want to learn? <br></li>
 </ol>
 
-<h2><a id="user-content-file-description">File Description</a></h2>
+<h2><a id="user-content-files">File Description</a></h2>
 <p><strong>exploratory_analysis.ipynb</strong>: Notebook containing the data analysis. <br>
 <strong>data/2017/survey_results_public.csv</strong>: Stackoverflow's 2017 Annual Developer Survey data. <br>
 <strong>data/2018/survey_results_public.csv</strong>: Stackoverflow's 2018 Annual Developer Survey data. <br></p>
@@ -49,5 +49,5 @@
   <li>People who already work with a certain programming language have a tendency to learn that language or related languages within correlated areas to improve their own skill.</li>
  </ol>
 
-<h2><a id="user-content-licensing-authors-acknowledgements">Licensing, Authors, Acknowledgements</h2>
+<h2><a id="user-content-licensing">Licensing, Authors, Acknowledgements</h2>
 <p>Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available <a href="https://insights.stackoverflow.com/survey" rel="nofollow">here</a>.</p>
