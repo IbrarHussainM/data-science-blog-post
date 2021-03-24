@@ -12,7 +12,7 @@
 <li><a href="#licensing">Licensing, Authors, and Acknowledgements</a></li>
 </ol>
 
-<h2><a id="user-content-installation"Installation</a></h2>
+<h2><a id="user-content-installation">Installation</a></h2>
 <p>This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute: <br>
 <code>pip install -r requirements.txt</code></p>
 <p>You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download <a href="https://insights.stackoverflow.com/survey" rel="nofollow">here</a>. <br></p>
