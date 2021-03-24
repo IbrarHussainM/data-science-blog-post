@@ -27,3 +27,16 @@
 <code>mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_results_public.csv</code><br></p>
 </li>
 </ol>
+
+<h2><a id="user-content-project-motivation">Project Motivation</a></h2>
+<p>This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:<br></p>
+<ol>
+<li>What are the most used programming languages in Brazil? <br></li>
+<li>What are the most wanted programming languages in Brazil? <br></li>
+<li>How does programming languages used at work relates with programming languages people want to learn? <br></li>
+</ol>
+
+<h2><a id="user-content-file-description">File Description</a></h2>
+<p><strong>exploratory_analysis.ipynb</strong>: Notebook containing the data analysis. <br>
+<strong>data/2017/survey_results_public.csv</strong>: Stackoverflow's 2017 Annual Developer Survey data. <br>
+<strong>data/2018/survey_results_public.csv</strong>: Stackoverflow's 2018 Annual Developer Survey data. <br></p>
