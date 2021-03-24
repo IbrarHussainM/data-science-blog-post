@@ -40,3 +40,9 @@
 <p><strong>exploratory_analysis.ipynb</strong>: Notebook containing the data analysis. <br>
 <strong>data/2017/survey_results_public.csv</strong>: Stackoverflow's 2017 Annual Developer Survey data. <br>
 <strong>data/2018/survey_results_public.csv</strong>: Stackoverflow's 2018 Annual Developer Survey data. <br></p>
+
+<h2><a id="user-content-results">Results</a></h2>
+<p>The main findings of the code can be found at the post available</p>
+
+<h2><a id="user-content-licensing-authors-acknowledgements">Licensing, Authors, Acknowledgements</h2>
+<p>Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available <a href="https://insights.stackoverflow.com/survey" rel="nofollow">here</a>.</p>
