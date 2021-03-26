@@ -3,7 +3,7 @@
 <p>Udacity Data Scientist Nanodegree Project.</p>
 
 
-<h3>Table of Contents</h3>
+<h3>Table of Contents.</h3>
 <ol>
 <li><a href="#installation">Installation</a></li>
 <li><a href="#motivation">Project Motivation</a></li>
